@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collection", "Collection\Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enums", "Enums\Enums.csproj", "{406B6B2B-A33D-4450-AC61-0E305487AC9B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "foreach", "foreach\foreach.csproj", "{03E07D34-2391-4229-97FE-2DC562AB3C5C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{406B6B2B-A33D-4450-AC61-0E305487AC9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{406B6B2B-A33D-4450-AC61-0E305487AC9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{406B6B2B-A33D-4450-AC61-0E305487AC9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03E07D34-2391-4229-97FE-2DC562AB3C5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03E07D34-2391-4229-97FE-2DC562AB3C5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03E07D34-2391-4229-97FE-2DC562AB3C5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03E07D34-2391-4229-97FE-2DC562AB3C5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
