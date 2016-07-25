@@ -24,6 +24,7 @@ namespace BuiltInTypes
             object l = 1;
             short m = 32767;
             ushort n = 65535;
+            string zach = "Zach";
             Console.WriteLine(a);
             Console.WriteLine(b);
             Console.WriteLine(c);
@@ -38,6 +39,8 @@ namespace BuiltInTypes
             Console.WriteLine(l);
             Console.WriteLine(m);
             Console.WriteLine(n);
+            Console.WriteLine(zach);
+            Console.ReadLine();
         }
     }
 }
